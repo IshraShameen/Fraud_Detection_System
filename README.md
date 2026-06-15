@@ -6,9 +6,9 @@ featuring a dark-themed Tkinter GUI dashboard.
 ## 👥 Team
 | Member   | Role                    |
 |----------|-------------------------|
-| Ishra    | Coding & GitHub         |
+| Ishra    | Coding and Testing      |
 | Basheera | Documentation           |
-| Areeba   | Testing & Presentation  |
+| Areeba   | GitHub                  |
 
 ## 🗂️ Project Structure
 fraud-detection-system/
